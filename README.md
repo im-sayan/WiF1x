@@ -34,7 +34,7 @@ Usage
 
 First, clone this repository to your local machine:
 
-git clone https://github.com/your-username/WiF1x-Scanner.git
+git clone [https://github.com/your-username/WiF1x-Scanner.git](https://github.com/im-sayan/WiF1x.git)
 cd WiF1x-Scanner
 
 2. Run the script
